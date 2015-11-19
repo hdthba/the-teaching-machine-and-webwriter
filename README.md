@@ -11,7 +11,7 @@ WebContent/
             
             WEB-INF/lib
            
-            WEB-INF/web.xml
+            WEB-INF/web.xml   (mapping DTD)
            
             META-INF/MANIFEST.MF
                      
