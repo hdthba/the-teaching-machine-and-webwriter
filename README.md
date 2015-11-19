@@ -1,17 +1,20 @@
 # remoteTM
 
 the web application is of the following file structure:
-
-WebContent------------
-                        src ---
-
-
-
-                      WEB-INF---classes
-                             ---lib
-                             ---web.xml
+   
+WebContent/ 
+            WEB-INF/classes
+            WEB-INF/lib
+            WEB-INF/web.xml
+            META-INF/MANIFEST.MF
                         
-                         view--- .html & .jsp     files
-                           js--- .js             files
-                          css--- .css            files
+            view/.html & .jsp     files
+            js/.js             files
+            css/.css            files
                       
+
+
+
+
+
+src/
